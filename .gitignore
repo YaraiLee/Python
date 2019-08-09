@@ -108,9 +108,4 @@ ipch/
 *.db
 *.vcxproj
 *.filters
-ReadMe.txt
-stdafx.h
-stdafx.cpp
-targetver.h
-StdAfx.h
-StdAfx.cpp
+.vscode
