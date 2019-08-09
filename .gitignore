@@ -1,0 +1,116 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+#Eclipse
+.classpath
+.project
+.settings/
+# Intellij
+.idea/
+*.iml
+*.iws
+/out/
+# Mac
+.DS_Store
+# Maven
+log/
+target/
+build/
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+# Log file
+*.log
+# Java
+*.class
+exitStatus*
+# svn
+.svn/
+# Other
+*.versionsBackup
+tmp
+temp
+#Visual Studio
+*.[oa]
+*.exe
+*.cbp
+*.depend
+bin/
+obj/
+*.layout
+.layout
+.vs/
+*.opendb
+*.plg
+*.htm
+*.suo
+*.vcproj
+*.ncb
+*.opt
+
+Debug/
+ipch/
+*.sln
+*.db
+*.vcxproj
+*.filters
+ReadMe.txt
+stdafx.h
+stdafx.cpp
+targetver.h
+StdAfx.h
+StdAfx.cpp
