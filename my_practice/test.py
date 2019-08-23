@@ -1,7 +1,8 @@
 #!/usr/bin/python
-#-*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 import os
+
 """
 print ("hello, python!")
 
@@ -73,10 +74,10 @@ for num in range(10, 20):
 ##break
 var = 10
 while var > 0:
-	print ('当前变量值:', var)
-	var -= 1
-	if var == 5:
-		break
-		
-print ("Good bye!")
+    print('当前变量值:', var)
+    var -= 1
+    if var == 5:
+        break
+
+print("Good bye!")
 os.system("pause")
